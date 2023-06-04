@@ -1,4 +1,4 @@
-Hello everyone, My name is ROBIN KUMAR
+Hello everyone, My name is aakash jha
   
 It is my first Project using C & C++ . It is my first project (PRODUCT MANAGEMENT SYSTEM), which I have made in both C and C++ & I really enjoyed when I making this project,
 
